@@ -1,0 +1,14 @@
+1. filter only python filter
+expected :add.py sub.py div.py multiple.py
+
+2.find a name of that python files
+expected result : add sub div multiple
+
+3. create a foldr with same name as python files name
+expected result : add/ sub/ div/ multiple
+
+4. copy a original python file and paste into specific folder
+
+
+
+
